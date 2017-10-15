@@ -16,6 +16,5 @@
 
 5:Quality Center： 基于Web的测试管理工具，可以组织和管理应用程序测试流程的所有阶段，包括指定测试需求、计划测试、执行测试和跟踪缺陷。
 QuickTest Professional：用于创建功能和回归测试。
-
 LoadRunner[2]：预测系统行为和性能的负载测试工具。
 其他测试工具与框架还有Rational Functional Tester、Borland Silk系列工具、WinRunner、Robot等。
