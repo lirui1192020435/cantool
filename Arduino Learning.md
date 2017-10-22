@@ -6,4 +6,4 @@ Arduino与计算机通信所使用的USB接口就是下载程序时所用的USB�
 4、Serial.read（）——读取持续输入的数据。
 注意观察Arduino板子上的TX/RX指示灯。
 TX（T：Transmitter发送）表示为Arduino发送指令信息给计算机
-RX（R：Receive接受）表示为Arduino接受来自计算机的指令信息，当下载程序与计算机通信时，这两个指示灯就会闪。
+RX（R：Receive接受）表示为Arduino接受来自计算机的指令信息，当下载程序与计算机通信时，这两个指示灯就会闪烁。
