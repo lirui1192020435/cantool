@@ -55,6 +55,7 @@ void Transform1(unsigned long long x,int k)
     }
 }
 
+%%
 void wt(int k)
 {
   if(state==0)
