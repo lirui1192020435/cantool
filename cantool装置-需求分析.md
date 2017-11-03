@@ -1,5 +1,6 @@
 # cantool装置需求分析：
-
+##CAN到App的过程：
+将接收到的温度信号转换成t/T开始的物理值传送给App。
 ## APP到can装置：
 
 1：接收到“V\r”返回CANtool装置的版本信息“SV2.5-HV2.0\r”
