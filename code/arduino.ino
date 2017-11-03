@@ -32,6 +32,7 @@ void loop() {
     cnt-=20000;
 }
 
+%%
 void print(int x)
 {
     if(x<10)
